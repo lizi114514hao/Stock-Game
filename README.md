@@ -1,4 +1,5 @@
 # Stock-Game
+代码使用deepseekAI生成
 被某人使用爬虫爬取了旧版本:(，所有我决定公开最新版本！使用JSON本地存储，有初始admin账户密码为admin123，在管理员账户中可以设置一些玩家股票和突发状况的详情，玩家可以自定义股票，资金也会随股票创建者移动。
 The old version was scraped by someone with a crawler :(, so I decided to release the latest version! It uses JSON for local storage, with an initial admin account password of admin123. In the admin account, you can set details for some player stocks and random events. Players can customize stocks, and funds will move along with the stock creator. 
 Die alte Version wurde von jemandem mit einem Crawler abgegriffen :(, deshalb habe ich beschlossen, die neueste Version zu veröffentlichen! Sie verwendet JSON für die lokale Speicherung, es gibt ein Anfangs-Admin-Konto mit dem Passwort admin123. Im Administrator-Konto können einige Details über Spieleraktien und plötzliche Ereignisse eingestellt werden. Spieler können eigene Aktien erstellen, und das Kapital bewegt sich ebenfalls mit dem Ersteller der Aktie. 
